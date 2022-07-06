@@ -11,6 +11,7 @@ making interpretation of lithospheric layering difficult.
 This package provides `MatLab` codes for a systematic data-driven approach, using autocorrelation and homomorphic analysis, 
 to solve the twin problem of detection and elimination of reverberations without 
 a priori knowledge of the elastic structure of the reverberant layers.
+Please refer to `Manual.pdf` for a complete description on how to use the package.
 
 ### Citation
 If you use `FADER` in your work, please cite:
