@@ -15,4 +15,4 @@ Please refer to `FADER_Manual.pdf` for a complete description on how to use the 
 
 ### Citation
 If you use `FADER` in your work, please cite:
-> The manuscript is currently under review. Citation info will be updated once it has been accepted for publication.
+> Zhang, Z., & Olugboji, T. (2023). Lithospheric imaging through reverberant layers: Sediments, oceans, and glaciers. Journal of Geophysical Research, [Solid Earth], 128(5). https://doi.org/10.1029/2022jb026348
